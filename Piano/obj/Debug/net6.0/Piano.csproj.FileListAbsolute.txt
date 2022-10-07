@@ -1,0 +1,15 @@
+C:\Users\gastf\source\repos\Piano\Piano\bin\Debug\net6.0\Piano.exe
+C:\Users\gastf\source\repos\Piano\Piano\bin\Debug\net6.0\Piano.deps.json
+C:\Users\gastf\source\repos\Piano\Piano\bin\Debug\net6.0\Piano.runtimeconfig.json
+C:\Users\gastf\source\repos\Piano\Piano\bin\Debug\net6.0\Piano.dll
+C:\Users\gastf\source\repos\Piano\Piano\bin\Debug\net6.0\Piano.pdb
+C:\Users\gastf\source\repos\Piano\Piano\obj\Debug\net6.0\Piano.csproj.AssemblyReference.cache
+C:\Users\gastf\source\repos\Piano\Piano\obj\Debug\net6.0\Piano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gastf\source\repos\Piano\Piano\obj\Debug\net6.0\Piano.AssemblyInfoInputs.cache
+C:\Users\gastf\source\repos\Piano\Piano\obj\Debug\net6.0\Piano.AssemblyInfo.cs
+C:\Users\gastf\source\repos\Piano\Piano\obj\Debug\net6.0\Piano.csproj.CoreCompileInputs.cache
+C:\Users\gastf\source\repos\Piano\Piano\obj\Debug\net6.0\Piano.dll
+C:\Users\gastf\source\repos\Piano\Piano\obj\Debug\net6.0\refint\Piano.dll
+C:\Users\gastf\source\repos\Piano\Piano\obj\Debug\net6.0\Piano.pdb
+C:\Users\gastf\source\repos\Piano\Piano\obj\Debug\net6.0\Piano.genruntimeconfig.cache
+C:\Users\gastf\source\repos\Piano\Piano\obj\Debug\net6.0\ref\Piano.dll
